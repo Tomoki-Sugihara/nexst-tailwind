@@ -24,7 +24,9 @@
   "prettier": {
     "printWidth": 120,
     "semi": false,
-    "singleQuote": true
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "trailingComma": "all"
   },
   "dependencies": {
     "next": "11.0.1",
