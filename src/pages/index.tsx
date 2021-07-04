@@ -1,4 +1,4 @@
-import type { VFC } from 'react'
+import type { NextPage } from 'next'
 import { Layout } from 'src/components/layout'
 
 const Home: VFC = () => {
