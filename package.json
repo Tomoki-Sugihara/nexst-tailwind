@@ -24,7 +24,8 @@
   "prettier": {
     "printWidth": 120,
     "semi": false,
-    "singleQuote": true
+    "singleQuote": true,
+    "trailingComma": "all"
   },
   "dependencies": {
     "next": "10.2.3",
