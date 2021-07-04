@@ -8,7 +8,7 @@ const Home: VFC = () => {
 
   return (
     <Layout>
-      <button className="p-2" onClick={handleClick}>
+      <button className='p-2' onClick={handleClick}>
         Click me!
       </button>
     </Layout>
